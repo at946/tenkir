@@ -32,7 +32,7 @@
     "uuid": "^10.0.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.8.2",
+    "@biomejs/biome": "^1.8.3",
     "@iconify-json/fa6-brands": "^1.1.19",
     "@iconify-json/fa6-solid": "^1.1.21",
     "@iconify-json/ic": "^1.1.17",
